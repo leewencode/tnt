@@ -1,0 +1,20 @@
+[project]
+name = "tnt"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "albumentations>=2.0.8",
+    "matplotlib>=3.10.9",
+    "numpy>=2.2.6",
+    "opencv-python>=5.0.0.93",
+    "scikit-image>=0.25.2",
+    "scipy>=1.15.3",
+    "segmentation-models-pytorch>=0.5.0",
+    "timm>=1.0.30",
+    "torch>=2.14.0",
+    "torchinfo>=1.8.0",
+    "torchvision>=0.29.0",
+    "tqdm>=4.70.1",
+]
